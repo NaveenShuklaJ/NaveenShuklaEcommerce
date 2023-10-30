@@ -1,0 +1,19 @@
+{% block body %}
+
+<div class="container">
+  <div class="product-container mt-2" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <h3>Detail View</h3>
+      <div class="image-container mt-4">
+          <img src="/media/{{#.image}}" width="300px" height="350px" alt="Not Found">
+          
+      </div>
+
+      <div class="product-details m-5">
+          <h5>{{request.user}}</h5>
+        
+          <p>{{request.user.email}}</p>
+      </div>
+  </div>
+</div>
+
+{% endblock %}
