@@ -6,6 +6,7 @@ To run this file:
   - Now type command: python manage.py runserver
   - Your will get something like this:- Starting development server at http://127.0.0.1:8000/
   - Now copy this:- http://127.0.0.1:8000/ and paste it in crome. or ctrl-click on that url.
+  - In case if you are already logged in, in the website then please logout with the top right corner having logout button, because that username, password will be again required when you will use admin panel. 
   - Completed.
 
 
