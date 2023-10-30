@@ -1,7 +1,7 @@
 # NaveenShuklaEcommerce
 
 To run this file:
-  - Make sure that you are in the same directory, where the manage.py file is present (note: you dont have to go inside manage.py file, just stay in the same directory where the manage.py file is present)
+  - Open the file make sure that you are in the same directory, where the manage.py file is present (note: you dont have to go inside manage.py file, just stay in the same directory where the manage.py file is present)
   - Now open the terminal there either vscode terminal or powershell window.
   - Now type command: python manage.py runserver
   - Your will get something like this:- Starting development server at http://127.0.0.1:8000/
