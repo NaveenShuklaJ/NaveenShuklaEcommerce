@@ -10,5 +10,6 @@ To run this file:
 
 
 To Access the Admin (where the data is stored):
+  - edit the url: open http://127.0.0.1:8000/admin
   - login with the same username and password that you may have filled while running the file above.
   - now you can add or remove the products in productss section. 
